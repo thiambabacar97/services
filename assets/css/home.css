@@ -1,0 +1,61 @@
+/* .home-img-banier {
+    background: url('../../assets/img/coveradie.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 406px;
+    background-position: bottom;
+} */
+
+.bg-light-primary {
+    background-color: #e1f0ff!important;
+}
+
+.rounded-xl {
+    border-radius: 1.25rem!important;
+}
+
+.bg-light-danger {
+    background-color: #ffe2e5!important;
+}
+
+.bg-light-success {
+    background-color: #c9f7f5!important;
+}
+
+.font-size-h6 {
+    /* font-size: 1.175rem!important; */
+}
+
+.font-weight-bold {
+    /* font-weight: 500!important; */
+}
+
+.magin {
+    margin-right: 5px;
+}
+
+div.card {
+    border: 0px solid #fff;
+}
+
+.baground {
+    color: #0000FF;
+    height: 80px;
+}
+
+
+/* .m-nav .m-nav__item>.m-nav__link .m-nav__link-text:hover {
+    color: red !important;
+} */
+
+.card-body {
+    background-color: #f2f3f8;
+}
+
+.m-header .m-header__top {
+    background: #1d6fa8 !important;
+}
+
+.card:not(.no-shadow) {
+    box-shadow: 0px 0px 0px 0px #999;
+}

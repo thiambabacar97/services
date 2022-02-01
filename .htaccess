@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteRule ^public/ - [L]
+RewriteRule ^assets/ - [L]
+RewriteRule ^css/ - [L]
+RewriteRule ^js/ - [L]
+RewriteRule ^css_compiled/ - [L]
+RewriteRule ^front/ - [L]
+RewriteRule ^ajax/ - [L]
+RewriteRule ^pics/ - [L]
+RewriteRule ^login/ - [L]
+RewriteRule ^logout/ - [L]

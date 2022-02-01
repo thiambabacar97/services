@@ -1,0 +1,102 @@
+#mainform .select2-container .select2-selection--single {
+    height: 39px !important;
+    min-width: 100%;
+}
+
+#mainform table td {
+    display: block !important;
+    width: 100% !important;
+}
+
+#mainform table td {
+    width: 100% !important;
+}
+
+#mainform .select2,
+.select2-container--below {
+    width: 100% !important;
+    display: block !important;
+}
+
+#mainform .select2-selection.select2-selection--single .select2-selection__rendered {
+    top: 7px;
+    font-size: 1rem !important;
+    padding-left: 0px;
+}
+
+#mainform .select2-container--default .select2-selection--single .select2-selection__arrow {
+    top: 7px;
+}
+
+#mainform .btn-md {
+    padding: 8px 1.15rem !important;
+}
+
+#mainform .timeline_history .h_content:after,
+.timeline_history .h_content:before {
+    display: none !important;
+}
+
+#mainform .timeline_history .h_content.ITILFollowup {
+    background-position: right !important;
+}
+
+#mainform .timeline_history .h_item,
+.timeline_history {
+    border-top: 0px dashed #fff;
+}
+
+#mainform .thumbnail img {
+    width: 200px !important;
+    border: 3px solid #4A8865;
+    border-radius: 3px;
+}
+
+#mainform .fileupload {
+    margin: 0px !important;
+    max-width: 100%;
+}
+
+
+/* #mainform input:required {
+    border: 1px solid rgb(211, 211, 211) !important;
+    border-left: 1px rgba(255, 0, 0, 0.6) solid !important;
+    border-left-width: 3px !important;
+    padding-right: 0 !important;
+    box-shadow: none;
+}
+
+#mainform select:required {
+    border-left: 1px rgba(255, 0, 0, 0.6) solid !important;
+    border-left-width: 3px !important;
+    padding-right: 0 !important;
+    box-shadow: none;
+} */
+
+#mainform .mce-edit-area.required {
+    border: 1px solid rgb(211, 211, 211) !important;
+    border-left: 1px rgba(255, 0, 0, 0.6) solid !important;
+    border-left-width: 3px !important;
+    padding-right: 0 !important;
+    box-shadow: none;
+}
+
+#mainform .fileupload {
+    text-align: center;
+    border: 1px solid #cccccc;
+    min-height: 65px;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 100% !important;
+    max-width: 100%;
+    margin: 0.5em auto;
+    padding: 0.5em;
+    margin-top: 5px;
+}
+
+#mainform .select2-container {
+    max-width: 100% !important;
+    word-break: break-all;
+    font-size: 11px;
+    margin-right: .5em;
+}

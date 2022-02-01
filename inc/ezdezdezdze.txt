@@ -1,0 +1,2 @@
+ALTER TABLE `glpi_plugin_services_items` ADD `is_active` TINYINT(50) NOT NULL AFTER `path`;
+ALTER TABLE `glpi_plugin_services_items` ADD `Mandatory` TINYINT(50) NOT NULL AFTER `is_active`;
